@@ -1,6 +1,0 @@
-# ninja log v5
-0	49	0	demo@exe/main.c.o	c80a31366e77b124
-49	72	0	demo	5cecb8b2c9ff48ce
-0	348	0	build.ninja	9679c22fa8727189
-0	344	0	demo@exe/main.c.o	af8b631d0520fc60
-346	491	0	demo	3afb458a6fc1bc67
