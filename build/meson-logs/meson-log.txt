@@ -1,0 +1,16 @@
+Build started at 2016-12-05T04:14:55.306043
+Python binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.36.0
+Source dir: /home/vm/Projects/hello_world
+Build dir: /home/vm/Projects/hello_world/build
+Build type: native build
+Project name: tutorial
+Native c compiler: cc (gcc 6.2.1)
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Found pkg-config: /usr/bin/pkg-config (0.29.1)
+Determining dependency gtk+-3.0 with pkg-config executable pkg-config.
+Native dependency gtk+-3.0 found: YES 3.22.4
+Build targets in project: 1

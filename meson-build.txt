@@ -1,0 +1,14 @@
+* Edit meson.build file to reflect changes
+* mkdir build, meson build
+* cd build
+* ninja-build
+
+For Gnome tutorial
+___________________
+* install gtk+
+* install gtk3-devel
+* might check pkg-config
+
+Complex tutorial
+___________________
+
