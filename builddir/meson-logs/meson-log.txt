@@ -1,4 +1,4 @@
-Build started at 2017-11-22T10:04:18.500494
+Build started at 2017-11-22T10:20:17.628488
 Python binary: /usr/bin/python3
 Python system: Linux
 The Meson build system
@@ -7,6 +7,16 @@ Source dir: /home/vm/Projects/hello_world
 Build dir: /home/vm/Projects/hello_world/builddir
 Build type: native build
 Project name: tutorial
+Sanity testing C compiler: cc
+Is cross compiler: False.
+Sanity check compiler command line: cc /home/vm/Projects/hello_world/builddir/meson-private/sanitycheckc.c -o /home/vm/Projects/hello_world/builddir/meson-private/sanitycheckc.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/vm/Projects/hello_world/builddir/meson-private/sanitycheckc.exe
 Native C compiler: cc (gcc 7.2.1)
 Build machine cpu family: x86_64
 Build machine cpu: x86_64
